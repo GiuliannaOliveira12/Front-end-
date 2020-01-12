@@ -1,0 +1,16 @@
+.destaque{
+    background-color: yellow;
+    border: 1px solid black;
+}
+.linhaMaior{
+    height: 130px;
+    background-color: gray;
+}
+
+.linhaTeste{
+    height:124px;
+   
+    background-color:gray;
+}
+
+

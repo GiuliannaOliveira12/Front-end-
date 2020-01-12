@@ -1,0 +1,17 @@
+.destaque{
+    margin: auto ;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+
+.linhaTeste{
+   margin: auto;
+   
+    background-color:gray;
+}
+.teste{
+    height:350px;
+    margin-left:467px;
+
+}
